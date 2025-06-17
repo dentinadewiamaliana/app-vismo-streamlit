@@ -6,3 +6,4 @@ pillow
 fastai
 torch
 gdown
+typing-extensions
